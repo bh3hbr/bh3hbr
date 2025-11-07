@@ -21,6 +21,10 @@ You can use the website to generate badges: https://shields.io/
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bh3hbr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
+<a href="https://github.com/bh3hbr/HotelRAG-Assistant">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bh3hbr&repo=HotelRAG-Assistant" />
+</a>
+
 <a href="https://github.com/bh3hbr/WatchDog">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bh3hbr&repo=WatchDog" />
 </a>
