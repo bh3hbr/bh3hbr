@@ -104,13 +104,6 @@ fun_fact:     "两岸猿声啼不住，轻舟已过万重山"
 
 ---
 
-<!-- 贡献蛇图 · 由 Actions 自动生成到 output 分支 -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bh3hbr/bh3hbr/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
----
-
 <!-- 底部渐变 Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&text=Thanks%20for%20visiting%20%E2%9D%A4&fontSize=18&fontColor=ffffff&fontAlignY=70&animation=twinkling" alt="footer" />
