@@ -66,31 +66,6 @@ fun_fact:     "两岸猿声啼不住，轻舟已过万重山"
 
 ---
 
-## 📊 GitHub 数据 · Stats
-
-<p align="center">
-  <a href="https://github.com/bh3hbr">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=bh3hbr&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=5EB5F7&icon_color=5EB5F7&text_color=E6EDF3&bg_color=0D1117&rank_icon=github" alt="stats" />
-  </a>
-  <a href="https://github.com/bh3hbr">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bh3hbr&layout=compact&langs_count=8&hide_border=true&title_color=5EB5F7&text_color=E6EDF3&bg_color=0D1117" alt="top-langs" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/bh3hbr">
-    <img src="https://streak-stats.demolab.com?user=bh3hbr&theme=tokyonight&hide_border=true&background=0D1117&stroke=5EB5F7&ring=5EB5F7&fire=F05138&currStreakLabel=5EB5F7" alt="streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bh3hbr&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophy" />
-  </a>
-</p>
-
----
-
 ## 🌟 精选项目 · Featured Projects
 
 ### 🚢 轻舟 · QingZhou
@@ -128,12 +103,6 @@ fun_fact:     "两岸猿声啼不住，轻舟已过万重山"
 </p>
 
 ---
-
-## 📈 近期活动 · Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bh3hbr&theme=github-compact&hide_border=true&bg_color=0D1117&color=5EB5F7&line=5EB5F7&point=F05138&area=true&area_color=5EB5F7" alt="activity graph" />
-</p>
 
 <!-- 贡献蛇图 · 由 Actions 自动生成到 output 分支 -->
 <p align="center">
